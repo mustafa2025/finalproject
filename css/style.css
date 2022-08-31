@@ -2,8 +2,9 @@ h1 {
   font-family: "Work Sans";
 }
 #logo {
-  width: 5rem;
-  height: 5rem;
+  width: 7rem;
+  height: 7rem;
+  text-align: left;
 }
 a {
   text-decoration: none;
@@ -43,4 +44,14 @@ input[type=submit]:hover {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
+}
+nav {
+text-align: center;
+}
+main {
+text-align: center;
+}
+footer {
+  text-align: center;
+  margin-top: 2rem;
 }
